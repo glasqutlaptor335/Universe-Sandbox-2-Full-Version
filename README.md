@@ -243,3 +243,6 @@ This repository serves as the official landing page for Universe Sandbox 2. The 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Universe Sandbox 2 today!**
+
+---
+**Last updated:** 2026-09-09 14:04:55 UTC
